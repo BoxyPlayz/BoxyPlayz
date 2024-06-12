@@ -1,3 +1,1 @@
-Website blockers beware, this will continue...
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=What+is+grass;The+walls+are+speaking+to+me;I+can+hear+colors+and+see+noises)](https://git.io/typing-svg)
