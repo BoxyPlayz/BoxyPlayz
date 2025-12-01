@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&letterSpacing=32vh&pause=1000&center=true&vCenter=true&width=435&lines=Amogus;Sus;Code;Amogus;Sus;Code;2;0;1;2;++++++++++++;The+end+arrives+soon%2C+the+amogus+shall+rise+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=I+am+snas+Unterdael;I+ate+pepperoni+pizza+on+November+29%2C+2025;Spance+and+Frain)](https://git.io/typing-svg)
