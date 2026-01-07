@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=I+am+snas+Unterdael;I+ate+pepperoni+pizza+on+November+29%2C+2025;Spance+and+Frain)](https://git.io/typing-svg)
 
 Actively maintained:
-[//]: # (- [Klassroom](https://github.com/BoxyPlayz/Klassroom))
 - [My Custom Homepage](https://github.com/BoxyPlayz/HomePage/)
-[//]: # (- [Preact Boilerplate Template with Themes](https://github.com/BoxyPlayz/template-neo))
-[//]: # (- [WebKonsole - Boxy's Fork](https://github.com/BoxyPlayz/WebKonsole))
+- [Rusticraft SMP Website](https://rusticraft.github.io/)
 
 What I work with
 - Express
